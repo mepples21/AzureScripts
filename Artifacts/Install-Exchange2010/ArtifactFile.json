@@ -6,7 +6,7 @@
     "Microsoft",
     "Exchange 2010"
   ],
-  "iconUri": "https://raw.githubusercontent.com/mepples21/AzureScripts/master/Artifacts/Install-Exchange2010/powershell.png",
+  "iconUri": "https://raw.githubusercontent.com/mepples21/AzureScripts/master/Artifacts/Install-Exchange2010/EX2010.png",
   "targetOsType": "Windows",
     "parameters": {
   },
